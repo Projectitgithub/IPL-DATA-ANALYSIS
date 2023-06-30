@@ -1,4 +1,4 @@
-IPL DATA ANALYSIS-2023
+# IPL DATA ANALYSIS-2023
 This repository contains a comprehensive analysis of the Indian Premier League (IPL) dataset from 2023.
 Analyzing data from the Indian Premier League (IPL) can provide fascinating insights into team performance, player statistics, and various factors influencing match outcomes. EDA on data set involves analysis from 2023.
 a. Team Performance: Analyze team performance over the years by calculating win-loss ratios, winning streaks, and other performance metrics. Visualize trends and compare the performance of different teams using line charts or bar plots.
